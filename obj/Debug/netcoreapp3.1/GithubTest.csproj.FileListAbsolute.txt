@@ -1,0 +1,13 @@
+G:\Az 400\GithubTest\bin\Debug\netcoreapp3.1\GithubTest.exe
+G:\Az 400\GithubTest\bin\Debug\netcoreapp3.1\GithubTest.deps.json
+G:\Az 400\GithubTest\bin\Debug\netcoreapp3.1\GithubTest.runtimeconfig.json
+G:\Az 400\GithubTest\bin\Debug\netcoreapp3.1\GithubTest.runtimeconfig.dev.json
+G:\Az 400\GithubTest\bin\Debug\netcoreapp3.1\GithubTest.dll
+G:\Az 400\GithubTest\bin\Debug\netcoreapp3.1\GithubTest.pdb
+G:\Az 400\GithubTest\obj\Debug\netcoreapp3.1\GithubTest.csprojAssemblyReference.cache
+G:\Az 400\GithubTest\obj\Debug\netcoreapp3.1\GithubTest.AssemblyInfoInputs.cache
+G:\Az 400\GithubTest\obj\Debug\netcoreapp3.1\GithubTest.AssemblyInfo.cs
+G:\Az 400\GithubTest\obj\Debug\netcoreapp3.1\GithubTest.csproj.CoreCompileInputs.cache
+G:\Az 400\GithubTest\obj\Debug\netcoreapp3.1\GithubTest.dll
+G:\Az 400\GithubTest\obj\Debug\netcoreapp3.1\GithubTest.pdb
+G:\Az 400\GithubTest\obj\Debug\netcoreapp3.1\GithubTest.genruntimeconfig.cache
